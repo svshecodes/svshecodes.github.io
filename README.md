@@ -1,2 +1,2 @@
 # svshecodes.github.io
-She Codes AspireIT program website
+She.codes program website
